@@ -1,0 +1,36 @@
+.bgimg{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9vdvTNSXen7eyKmWQgMCt4HEWtDazye8yJJif7BMZbbINfQeE51Df98VfoHAVv0XfC6w&usqp=CAU");
+    height:120vh;
+    background-size:cover;
+}
+.mobilehead{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding:25px;
+}
+.layoutcard{
+    background-color:white;
+    border-radius:8px;
+    padding:18px;
+    margin:15px;
+
+}
+.brandscont{
+    color: #041804;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight: bold;
+
+}
+.brandspara{
+    color:#6c6b70;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+
+}
+.brandimg{
+    width:100px;
+    height:100px;
+}
